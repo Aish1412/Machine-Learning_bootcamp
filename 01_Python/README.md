@@ -7,4 +7,3 @@ Topics Covered
 - Loops
 - Functions
 - OOP
-- 
